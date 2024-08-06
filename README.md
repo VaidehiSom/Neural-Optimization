@@ -28,6 +28,7 @@ Single batch inference Time of model = 876.7441272735596 milliseconds
 ![pruning_metrics](images/pruning_output.png)
 
 ## Knowledge Distillation
+```
 -------------
  Metrics of Teacher 
 -------------
@@ -52,7 +53,7 @@ Device = cpu
 Model FileSize = 44.391197 MB
 Single batch inference Time of model = 136.01408004760742 milliseconds
 IOU KD Student 0.526
-
+```
 #### Student vs Teacher
 * **IOU** of student is **22% worse** than teacher
 * **Inference time** of student is **12x faster** than teacher
