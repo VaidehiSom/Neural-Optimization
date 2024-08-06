@@ -66,4 +66,4 @@ IOU KD Student 0.526
 *   **Inference Time** is **similar**
 
 ### Result
-![Result](Knowledge\ Distillation/knowledge_distillation_output.gif)
+![Result](Knowledge_Distillation/knowledge_distillation_output.gif)
